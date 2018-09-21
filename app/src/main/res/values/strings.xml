@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ECM</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="testnumber1">2688691368504872953750721000185014613313</string>
+    <string name="testnumber2">4294967297</string>
+    <string name="testnumber3">18446744073709551617</string>
+    <string name="testnumber4">246401653443793276962627503953</string>
+    <string name="number">Number to factor</string>
+    <string name="B1">B1</string>
+    <string name="number_of_curves">Number of curves</string>
+    <string-array name="method_array">
+        <item>ECM</item>
+        <item>P-1</item>
+        <item>P+1</item>
+    </string-array>
+</resources>

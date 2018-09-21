@@ -1,0 +1,1 @@
+Android Studio project to test ECM JNI bridge.
